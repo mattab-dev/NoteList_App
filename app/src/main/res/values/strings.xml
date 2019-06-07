@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NoteList</string>
+    <string name="action_settings">Settings</string>
+    <string name="img_content_desc">Image of chosen note category</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category:</string>
+    <string name="shopping_category">Shopping category</string>
+    <string name="business_category">Business category</string>
+    <string name="family_category">Family category</string>
+    <string name="sport_category">Sport category</string>
+    <string name="note_content">Note content</string>
+    <string name="note_title">Note title</string>
+    <string name="save_note_button">Save note button</string>
+    <string name="cancel_button">Cancel button</string>
+    <string name="add_new_note_button">Add new note button</string>
+</resources>

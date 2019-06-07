@@ -1,0 +1,6 @@
+
+Š"squid:ClassVariableVisibilityCheckH"UMake noteTitle a static final constant or non-public and provide accessors if needed.(âëä«8Øì¢ò²-
+ˆ"squid:ClassVariableVisibilityCheckJ"SMake noteImg a static final constant or non-public and provide accessors if needed.(ùÑÑë8Øì¢ò²-
+Fsquid:S1185B"(Remove this method to simply inherit it.(ÊÕ¥õ8Øì¢ò²-
+"squid:ClassVariableVisibilityCheckI"UMake noteShort a static final constant or non-public and provide accessors if needed.(‚ÔÕ‰ùÿÿÿÿ8Øì¢ò²-
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "holder".(„—¼ßÿÿÿÿÿ8Øì¢ò²-

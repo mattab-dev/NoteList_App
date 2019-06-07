@@ -1,0 +1,5 @@
+
+;squid:S2386"Make this member "protected".(æÎñ»8„Ïéô²-
+‰"squid:ClassVariableVisibilityCheck"TMake iconList a static final constant or non-public and provide accessors if needed.(æÎñ»8—è—ò²-
+Lsquid:S1444".Make this "public static iconList" field final(æÎñ»8„Ïéô²-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(Ãşä‹8„Ïéô²-
